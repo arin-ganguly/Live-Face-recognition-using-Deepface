@@ -45,5 +45,11 @@ https://github.com/user-attachments/assets/240e8a4c-cc2a-4627-99d4-a7336a085a3d
 
 ---
 
-## 📁 Project Structure
+**Contributors:**
+
+Arin Ganguly(https://github.com/arin-ganguly)
+
+Ankan Das(https://github.com/Ankandas2004)
+
+Abhijit Dey(https://github.com/IamAbhijit2004)
 
