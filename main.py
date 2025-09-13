@@ -7,7 +7,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 # ---- CONFIG ---- #
-embedded_file = r"E:\Fortuna_Video_Analytics_OnFace_&_FAISS\Embedded files\embeddings.pkl"
+embedded_file = r"E:\Face Recognition\Embedded files\embeddings.pkl"
 cosine_threshold = 0.3  # Lower for stricter match
 
 # ---- Load embeddings ---- #
@@ -88,3 +88,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
