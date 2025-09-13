@@ -3,7 +3,7 @@ import pickle
 from deepface import DeepFace
 import numpy as np
 
-embedding_path = "E:\Fortuna_Video_Analytics_OnFace_&_FAISS\Embedded files\embeddings24.pkl"
+embedding_path = "E:\Face Recognition\Embedded files\embeddings24.pkl"
 
 def get_image_paths_flat(dataset_path):
     """Get all image paths and use filename (without extension) as label."""
@@ -68,3 +68,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
