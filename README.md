@@ -2,7 +2,7 @@
 
 This project demonstrates a **real-time face recognition system** using the [DeepFace](https://github.com/serengil/deepface) library with live webcam input. It captures frames from a video stream, detects faces using **MTCNN**, generates face embeddings using **ArcFace**, and compares them to pre-saved embeddings to recognize individuals.
 
-> ⚠️ **Note:** This implementation currently suffers from **low FPS (frames per second)**, especially due to the high computation time of MTCNN and ArcFace on each frame in real time without GPU acceleration.
+> ⚠️ **Note:** This implementation currently suffers from **low FPS (frames per second)**, especially due to the high computation time of MTCNN and ArcFace on each frame in real time without GPU acceleration. It shold became faster under GPU acceleration
 
 ---
 
